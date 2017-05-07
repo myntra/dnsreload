@@ -1,0 +1,22 @@
+LOGFILE =  "" 
+PATH = "./"
+ZONE = ""
+GIT_MODULE = PATH+"git_module/git_module"
+CONF_FILE = PATH+ "conf/" 
+TEMPLATE_FILE = PATH+"templates/record.j2" 
+ZONE_FILE = ""  
+TMP_ZONE_FILE = PATH+'' 
+BACKUP_ZONE_FILE = '' 
+
+LIVE_RECORDS_FILE = CONF_FILE+"liveRecords"
+EDIT_RECORDS_FILE = CONF_FILE+"editRecords"
+ADD_RECORDS_FILE = CONF_FILE+"addRecords"
+TEST_ZONE_FILE = PATH+""
+SOA_FILE = CONF_FILE+''
+SERIAL_FILE = CONF_FILE+''
+OLD_SERIAL_SOA_FILE = CONF_FILE+''
+OLD_SERIAL_TMP_ZONE_FILE = PATH+''
+TEMPLATE_ZONE_FILE = PATH+"templates/zone.j2"
+GETURL =  ''
+APIKEY = ''
+POSTURL = ''
