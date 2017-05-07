@@ -23,4 +23,4 @@ eg JSON:
 
 * Set the GIT Repo parameters in the `appconfig.toml` and configs for creation of the records and storing backups in `configs.py`
 
-* The `post_zone_change`function posts the status of all the records to the server from `status:"LIVE/ADDPENDING/UPDATEPENDING/DELETEPENDING"` to `status:"SUCCESS/FAILED"` Based on whether they pass the BIND syntax  or not.
+* The `post_zone_change`function posts the status of all the records to the server from `status:"LIVE/ADDPENDING/UPDATEPENDING/DELETEPENDING"` to `status:"SUCCESS/FAILED"`. Based on whether they pass the BIND syntax  or not.
