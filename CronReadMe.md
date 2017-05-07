@@ -17,7 +17,7 @@ eg JSON:
 
 * After generation of all the conf files, it generates the zone file.
 
-* The new generated zone file is checked against the original zone file , If there are any changes it calls the GIT_MODULE service to push the latest ZOne file to github repo
+* The new generated zone file is checked against the original zone file , If there are any changes it calls the GIT_MODULE service to push the latest Zone file to Github repo.
 
 * Before every changes to original zone file. Backup is created.
 
