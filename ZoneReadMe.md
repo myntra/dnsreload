@@ -1,4 +1,4 @@
-#Working with DNS BIND SERVER
+# Working with DNS BIND SERVER
 
 * Register your zone in the /etc/named.conf :
 	```
